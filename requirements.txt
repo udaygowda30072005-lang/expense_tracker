@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly
+textblob
+scikit-learn
+prophet
+statsmodels
+streamlit-option-menu
